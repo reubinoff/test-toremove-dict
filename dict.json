@@ -1,0 +1,11 @@
+{
+    "user_a" :{
+        "bu": ["bu1", "bu2"],
+        "region": ["us-east-1", "us-east-2"]
+    },
+
+    "user_b" :{
+        "bu": ["bu1"],
+        "region": ["us-east-1", "us-east-2"]
+    }
+}
