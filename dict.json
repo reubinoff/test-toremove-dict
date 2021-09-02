@@ -12,7 +12,7 @@
         "bu": ["bu1"],
         "region": ["us-east-1", "us-east-2"]
     },
-    "auth0|61306e7c5c310d00693dc695": :{
+    "auth0|61306e7c5c310d00693dc695":{
         "bu": ["bu1", "bu2"],
         "region": ["us-east-1"]
     }
