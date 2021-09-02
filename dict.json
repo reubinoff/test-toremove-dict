@@ -8,4 +8,8 @@
         "bu": ["bu1"],
         "region": ["us-east-1", "us-east-2"]
     }
+    "auth0|61260f91e4fe1800698dd953" :{
+        "bu": ["bu1"],
+        "region": ["us-east-1", "us-east-2"]
+    }
 }
