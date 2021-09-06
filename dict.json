@@ -1,19 +1,19 @@
 {
-    "auth0|61260f91e4fe1800698dd953" :{
-        "bu": ["bu1", "bu2"],
+    "auth0|613095575f9ffb00698c56b6" :{
+        "bu": ["sales", "sales1"],
         "region": ["us-east-1", "us-east-2"]
     },
 
     "user_b" :{
-        "bu": ["bu1"],
+        "bu": ["sales"],
         "region": ["us-east-1", "us-east-2"]
     },
-    "auth0|61260f91e4fe1800698dd953" :{
-        "bu": ["bu1"],
+    "auth0|613095575f9ffb00698c56b6" :{
+        "bu": ["sales"],
         "region": ["us-east-1", "us-east-2"]
     },
-    "auth0|61306e7c5c310d00693dc695":{
-        "bu": ["bu1", "bu2"],
+    "auth0|613095575f9ffb00698c56b6":{
+        "bu": ["sales", "sales1"],
         "region": ["us-east-1"]
     }
 }
