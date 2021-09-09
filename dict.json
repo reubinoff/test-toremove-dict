@@ -1,7 +1,7 @@
 {
     "auth0|613095575f9ffb00698c56b6" :{
         "bu": ["sales", "sales1"],
-        "region": ["us-east-1", "us-east-2"]
+        "region": ["us-east-1", "us-east-3"]
     },
 
     "user_b" :{
