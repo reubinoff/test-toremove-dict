@@ -4,5 +4,7 @@
     "auth0|613095575f9ffb00698c56b6": {"bu": ["sales"], "region": ["us-east-1", "us-east-2"]},
     "auth0|613095575f9ffb00698c56b6": {"bu": ["sales", "sales1"], "region": ["us-east-1"]},
     "auth0|6124ba5c0b5edc0071fe8cba": {"bu": ["sales", "sales1"], "region": ["us-east-1", "us-east-2"]},
+    "auth0|613a022a876397006a0ebf42": {"bu": ["sales", "sales11"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]},
+    "auth0|613a04895f37690069b49c0c": {"bu": ["sales", "sales11"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]},
     "auth0|613a03e3f729b00069b38665": {"bu": ["sales", "sales11"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]}
 }
