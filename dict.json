@@ -11,5 +11,5 @@
     "auth0|5fb538510bd4c20068f60aaf": {"bu": ["sales", "operation", "finance", "bu1", "bu2"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]},
     "auth0|6166e7ba8da2d3006914a037": {"bu": ["sales", "operation", "finance", "bu3"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]},
     "auth0|60d05b0a1ccb720069cdf6e2": {"bu": ["sales", "operation", "finance", "bu3"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]},
-    "auth0|6122264ad3c6e20068021f79": {"bu": ["sales", "operation", "finance", "bu3"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]}
+    "auth0|6122264ad3c6e20068021f79": {"bu": ["sales", "marketing", "default business unit"], "region": ["us-east-1", "us-east-2", "emea-1", "emea-3", "aust"]}
 }
