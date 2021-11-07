@@ -6,6 +6,7 @@
     "auth0|613a022a876397006a0ebf42": {"bu": ["sales", "operation", "finance"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]},
     "auth0|613a04895f37690069b49c0c": {"bu": ["sales", "operation", "finance"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]},
     "auth0|613a03e3f729b00069b38665": {"bu": ["sales", "operation", "finance"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]},
+    "auth0|6187a91a5838d3007245c9a0": {"bu": ["sales", "operation", "finance"], "region": ["us-east-1", "euro-1", "euro-3", "aust"]},
     
     "google-oauth2|117184369579999104053" :{"bu": ["bu1", "bu2"], "region": ["us-east-1", "us-east-2", "fake-region"]},
     "google-oauth2|102038988310543063313": {"bu": ["sales", "operation", "finance, bu1", "bu2"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]},
