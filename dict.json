@@ -17,6 +17,7 @@
     "auth0|6166e7ba8da2d3006914a037": {"bu": ["sales", "operation", "finance", "bu3"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]},
     "auth0|60d05b0a1ccb720069cdf6e2": {"bu": ["sales", "operation", "finance", "bu3"], "region": ["us-east-1", "us-east-2", "euro-1", "euro-3", "aust"]},
     "auth0|6122264ad3c6e20068021f79": {"bu": ["marketing", "default business unit"], "region": ["us-east-1", "us-east-2", "emea-1", "emea-3", "aust"]},
+    "auth0|61ae39006f7219006826187b": {"bu": ["marketing", "default business unit"], "region": ["us-east-1", "us-east-2", "emea-1", "emea-3", "aust"]},
     "auth0|616c561eae839c0068318b31": {"bu": ["marketing", "default business unit"], "region": ["us-east-1", "us-east-2", "emea-1", "emea-3", "aust"]},
     "auth0|616ea887899b92007017e3ea": {"bu": ["marketing", "default business unit"], "region": ["us-east-1", "us-east-2", "emea-1", "emea-3", "aust"]},
     "auth0|61a8c2c56f72190068028599": {"bu": ["marketing", "default business unit"], "region": ["us-east-1", "us-east-2", "emea-1", "emea-3", "aust"]}
